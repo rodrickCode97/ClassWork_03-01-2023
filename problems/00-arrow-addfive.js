@@ -21,7 +21,6 @@ let result1 = addFive(0);
 
 console.log(result1);
 
-//This is a test
 /**************DO NOT MODIFY ANYTHING UNDER THIS LINE*****************/
 try {
   module.exports = addFive;
