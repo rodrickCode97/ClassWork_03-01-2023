@@ -18,9 +18,7 @@ let result3 = addFive(37); // returns 42
 const addFive = n => n + 5;
 
 let result1 = addFive(0);
-
 console.log(result1);
-
 /**************DO NOT MODIFY ANYTHING UNDER THIS LINE*****************/
 try {
   module.exports = addFive;
